@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6i0070/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 文殊問經字母品第十四
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T14/T14n0469.xml
+    old_id: T14n0469
+hash: sha256:c5416dd271f2aa19e1ee95dfd66b9512b470451e131dd7494685bed72b4a1fed
