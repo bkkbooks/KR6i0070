@@ -31,9 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0070_000.yaml, hash: 'sha256:c5416dd271f2aa19e1ee95dfd66b9512b470451e131dd7494685bed72b4a1fed'}
-  - {seq: 1, filename: KR6i0070_001.yaml, hash: 'sha256:0af2a2d809a3f445e9244bd561618eb0727c08df68188670a228c0f47d3276c2'}
+  - {seq: 1, filename: KR6i0070_001.yaml, hash: 'sha256:0a9209e8df0c65d2c44e39cb7462ea7e09253b699d383445f0815de41adca259'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6i0070_001.markers.yaml, hash: 'sha256:6e05fe92f1b3c259cb18290de4dfa8cdf1d488f33b32cf485d73c7abf506944a'}
+  - {seq: 0, role: markers, filename: assets/KR6i0070_000.markers.yaml, hash: 'sha256:3fb1d45931dc97b168b521010fc1618e1da97084fdb20548c3695308f7ce76bd'}
+  - {seq: 1, role: markers, filename: assets/KR6i0070_001.markers.yaml, hash: 'sha256:aea79488faa618ad465e9d13da7932c5d87e807d86c2a9ba4f0fc50504f71828'}
 table_of_contents:
 - ref:
     seq: 1
@@ -45,7 +46,4 @@ table_of_contents:
   label: 文殊問經字母品第十四
   type: juan
   level: 1
-hash: sha256:fb2cb2ca10bcafa3e8a9e12700890d0357ea9b8c6c2296f0f08fae860718cce7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:6a63f769e733540cdbb4c01f5e88ebd448a51b7085131a45e06dc318fd4c770b
