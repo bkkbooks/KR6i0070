@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6i0070/v1
 canonical_location: https://kanripo.org/bkk/KR6i0070/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 文殊問經字母品第十四
   identifiers:
@@ -31,10 +31,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6i0070_000.yaml, hash: 'sha256:c5416dd271f2aa19e1ee95dfd66b9512b470451e131dd7494685bed72b4a1fed'}
-  - {seq: 1, filename: KR6i0070_001.yaml, hash: 'sha256:0a9209e8df0c65d2c44e39cb7462ea7e09253b699d383445f0815de41adca259'}
+  - {seq: 1, filename: KR6i0070_001.yaml, hash: 'sha256:eaec052f5cdbab044a041561ac03aa686e4bab3c9f58276a7c00cb3853ea7fc3'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6i0070_000.markers.yaml, hash: 'sha256:3fb1d45931dc97b168b521010fc1618e1da97084fdb20548c3695308f7ce76bd'}
-  - {seq: 1, role: markers, filename: assets/KR6i0070_001.markers.yaml, hash: 'sha256:aea79488faa618ad465e9d13da7932c5d87e807d86c2a9ba4f0fc50504f71828'}
+  - {seq: 1, role: markers, filename: assets/KR6i0070_001.markers.yaml, hash: 'sha256:24afd6505679c178eabd15cf3c00b7699833103f74c3d4acd2bd2c85ca56d73b'}
 table_of_contents:
 - ref:
     seq: 1
@@ -46,4 +46,7 @@ table_of_contents:
   label: 文殊問經字母品第十四
   type: juan
   level: 1
-hash: sha256:6a63f769e733540cdbb4c01f5e88ebd448a51b7085131a45e06dc318fd4c770b
+hash: sha256:d05fab383381aa75ce2fd487d99a4a5e081ae516cb7effe9804e980bf7053493
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
