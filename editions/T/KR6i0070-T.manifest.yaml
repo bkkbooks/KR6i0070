@@ -22,7 +22,7 @@ assets:
   - {seq: 0, filename: KR6i0070_000-T.yaml, hash: 'sha256:c5416dd271f2aa19e1ee95dfd66b9512b470451e131dd7494685bed72b4a1fed'}
   - {seq: 1, filename: KR6i0070_001-T.yaml, hash: 'sha256:0a9209e8df0c65d2c44e39cb7462ea7e09253b699d383445f0815de41adca259'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6i0070_000-T.markers.yaml, hash: 'sha256:f2ea5b2c3e53c787b8b95e786dc17a966f3317fc6025fb296bdc78de42796766'}
+  - {seq: 0, role: markers, filename: assets/KR6i0070_000-T.markers.yaml, hash: 'sha256:02c9dc7fc9ebb75d5a407e05a276afc622cb356801676c67905561ead91ff00f'}
   - {seq: 1, role: markers, filename: assets/KR6i0070_001-T.markers.yaml, hash: 'sha256:73696c5fdbdad710b2e36fe90a4cce37a82e2e4e88ec03b48ae3d93083566933'}
 table_of_contents:
 - ref:
@@ -35,4 +35,4 @@ table_of_contents:
   label: 文殊問經字母品第十四
   type: juan
   level: 1
-hash: sha256:177a27751d0e1b9818b7b1b3a3d928779d8f8f8337d110a32db3800e1939db3e
+hash: sha256:7cdfa86d1fd97776b12d2180462a9e4cb4757477e2039569c1678ec3449cd84b
